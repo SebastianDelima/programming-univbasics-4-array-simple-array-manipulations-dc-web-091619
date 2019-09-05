@@ -24,11 +24,11 @@ end
 
 def using_concat(arr1, arr2)
   arr1 + arr2
+  arr1.length+1
 end
 
 def using_insert(array, element)
   array.insert(4, element)
-  array1.lenght+1
 end
 
 def using_uniq(array)
